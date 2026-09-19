@@ -1,0 +1,13 @@
+Soil Organic Carbon and Soil Health
+
+Soil organic carbon (SOC) is a major component of soil organic matter and supports multiple soil functions. FAO reports that SOC helps stabilize soil structure and aggregation, improves nutrient cycling and storage, and can increase soil porosity and water-holding capacity. SOC also provides habitat and food resources for soil organisms, supporting soil biodiversity.
+
+Source:
+FAO Global Soil Partnership, Unlocking the Potential of Soil Organic Carbon: A Feasible Way Forward.
+https://www.fao.org/fileadmin/user_upload/GSP/docs/Unlocking_SOC.pdf
+
+Key relationships:
+- Higher SOC can improve soil structure and aggregation.
+- Improved soil structure can support water infiltration and water retention.
+- SOC supports soil organisms and soil biological activity.
+- Low SOC can reduce resilience to water stress and degradation.

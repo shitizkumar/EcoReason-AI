@@ -1,0 +1,26 @@
+[
+  {
+    "id": "INT-001",
+    "action": "Cover crops",
+    "targets": ["organic_carbon", "moisture"],
+    "mechanism": "Adds vegetation cover and organic matter while supporting soil structure.",
+    "horizon": "6–24 months",
+    "evidence": ["FAO-SOIL-001"]
+  },
+  {
+    "id": "INT-002",
+    "action": "Agroforestry",
+    "targets": ["organic_carbon", "biodiversity", "moisture"],
+    "mechanism": "Combines trees with agricultural production to increase vegetation structure and ecological niches.",
+    "horizon": "1–5 years",
+    "evidence": ["FAO-BIODIV-001"]
+  },
+  {
+    "id": "INT-003",
+    "action": "Intercropping",
+    "targets": ["species_richness", "habitat_diversity"],
+    "mechanism": "Introduces crop diversity and additional vegetation structure.",
+    "horizon": "1–3 years",
+    "evidence": ["FAO-BIODIV-001"]
+  }
+]

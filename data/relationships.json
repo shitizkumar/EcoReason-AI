@@ -1,0 +1,23 @@
+[
+  {
+    "id": "REL-001",
+    "from": ["organic_carbon", "rainfall_mm"],
+    "to": ["moisture"],
+    "relationship": "Low soil organic carbon combined with limited rainfall can reduce soil water resilience.",
+    "evidence": ["FAO-SOIL-001"]
+  },
+  {
+    "id": "REL-002",
+    "from": ["land_use", "species_richness"],
+    "to": ["habitat_diversity"],
+    "relationship": "Monoculture and low species richness can indicate limited habitat diversity.",
+    "evidence": ["FAO-BIODIV-001"]
+  },
+  {
+    "id": "REL-003",
+    "from": ["deforestation", "species_richness"],
+    "to": ["habitat_fragmentation"],
+    "relationship": "Habitat loss can increase fragmentation pressure and affect biodiversity.",
+    "evidence": ["IPCC-LAND-001"]
+  }
+]

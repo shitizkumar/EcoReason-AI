@@ -1,0 +1,21 @@
+Agroforestry, Soil, Water and Biodiversity
+
+Agroforestry integrates trees and shrubs with crops and/or livestock. It can provide multiple environmental functions including improved soil cover, reduced erosion, improved soil fertility and biological activity, increased organic carbon, more effective use of available water and enhanced biodiversity.
+
+FAO describes agroforestry systems as contributing to soil fertility, water conservation, carbon capture and biodiversity conservation.
+
+Agroforestry can influence water cycling through interception, transpiration and soil water retention. Trees and vegetation can also reduce surface runoff and increase infiltration.
+
+Source:
+FAO, Service Functions of Agroforestry Systems.
+https://www.fao.org/4/xii/ms20-e.htm
+
+Additional source:
+FAO, Agroforestry.
+https://www.fao.org/4/i1861e/i1861e.pdf
+
+Key relationships:
+- Agroforestry → soil organic matter and carbon.
+- Agroforestry → soil structure and infiltration.
+- Agroforestry → water retention and reduced runoff.
+- Agroforestry → habitat structure and biodiversity.

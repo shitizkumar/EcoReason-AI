@@ -1,0 +1,21 @@
+Climate Change, Land Management and Biodiversity
+
+The IPCC identifies land ecosystems and biodiversity as vulnerable to climate change and climate extremes. Sustainable land management can help address multiple environmental stressors.
+
+The IPCC identifies practices including cover crops, crop residue retention, reduced or zero tillage and maintenance of ground cover as options for reducing vulnerability to soil erosion and nutrient loss.
+
+The IPCC also reports that agroforestry, perennial systems and improved land management can reduce erosion and nutrient leaching while building soil carbon.
+
+Source:
+IPCC, Special Report on Climate Change and Land, Summary for Policymakers.
+https://www.ipcc.ch/srccl/chapter/summary-for-policymakers/
+
+Additional source:
+IPCC AR6 Working Group III, Chapter 7: Agriculture, Forestry and Other Land Uses.
+https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-7/
+
+Key relationships:
+- Climate stress + land degradation → increased ecosystem vulnerability.
+- Cover crops → reduced erosion and nutrient loss.
+- Agroforestry → soil carbon + erosion reduction + water-related benefits.
+- Land management can influence several environmental variables simultaneously.
