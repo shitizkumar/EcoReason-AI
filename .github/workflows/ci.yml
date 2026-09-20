@@ -12,18 +12,25 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
       - name: Install test dependencies
         run: |
+          python --version
           python -m pip install --upgrade pip
-          pip install pydantic pytest
+          python -m pip install pydantic pytest
+
+      - name: Verify test environment
+        run: |
+          python --version
+          python -m pytest --version
+          find . -maxdepth 3 -type f | sort
 
       - name: Run tests
         run: |
-          pytest -q
+          python -m pytest -q
