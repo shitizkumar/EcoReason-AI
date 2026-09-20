@@ -5,3 +5,6 @@ sentence-transformers
 faiss-cpu
 pypdf
 numpy
+requests
+pytest
+openai
